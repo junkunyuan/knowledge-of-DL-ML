@@ -15,7 +15,7 @@ Feel free to star and contribute.
 
 ## Contributing & Contact
 
-Feel free to contribute to our repository with GitHub issues.
+Feel free to contribute to our repository.
 
 If you have any questions or advice, please contact us by email (yuanjk@zju.edu.cn) or GitHub issues.
 
