@@ -8,7 +8,7 @@ Feel free to star and contribute.
 - Basic Knowledge
     - Activation Function
     - Loss Function
-    - Optimizers
+    - Optimizer
     - Normalization
 - Computer Vision
     - Image Classification
