@@ -6,8 +6,9 @@ Feel free to star and contribute.
 
 ## Contents
 - Basic Knowledge
+    - Activation Function
     - Loss Function
-    - Gradient Descent Optimization Algorithms: Optimizers
+    - Optimizers
     - Normalization
 - Computer Vision
     - Image Classification
